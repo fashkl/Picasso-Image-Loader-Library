@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PicassoImageLoader</string>
+    <string name="txt">Load images in android using picasso image loader library. Best android image loader library</string>
+</resources>
